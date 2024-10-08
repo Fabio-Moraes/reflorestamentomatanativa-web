@@ -4,7 +4,7 @@ export function Contacts() {
   return (
     <Container>
       <h1>Reflorestamento Mata Nativa</h1>
-      <span>CNPJ: 36.696.935/0001-00 </span>
+      <span>CNPJ: 44.413.378.0001-92 </span>
 
       <h1>Endereço</h1>
       <span>Estrada Rubens Carlos Herling KM4, CORREGO SECO</span>
